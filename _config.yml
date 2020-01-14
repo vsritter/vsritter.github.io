@@ -1,0 +1,21 @@
+# Permalinks
+#
+permalink:           /:categories/:year/:month/:day/:title/
+
+# Setup
+title:               My Title
+tagline:             My Own Webiste
+description:         Some Amazing Description
+url:                 http://yoururl.com
+baseurl:             ''
+paginate:            5
+
+# Plugins, Tags, Categories and Analytics  
+plugins:          [jekyll-paginate]
+
+# About/contact
+author:
+  name:              Your Name
+  url:               https://yoururl.com
+  email:             you@gmail.com
+  
